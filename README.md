@@ -53,3 +53,8 @@ The dataset used for this project is a structured sales dataset containing:
 ### 📌 Conclusion
 
 This dashboard demonstrates how business data can be transformed into meaningful insights through structured analysis and visualization. It highlights the importance of data-driven decision-making in identifying growth opportunities and improving performance.
+
+### 📬 Contact
+If you have any questions or feedback, feel free to connect:
+
+- LinkedIn: https://www.linkedin.com/in/bulus-umoru  
