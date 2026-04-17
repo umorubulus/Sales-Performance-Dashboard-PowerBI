@@ -43,7 +43,7 @@ The dataset used for this project is a structured sales dataset containing:
   
 ### 📸 Dashboard Preview
 
-![Sales Dashboard](Sales Performance Dashboard.png)
+<img src="Sales Performance Dashboard.png" width="800">
 
 ### 🚀 How to Use
  - Open the .pbix file in Power BI Desktop
