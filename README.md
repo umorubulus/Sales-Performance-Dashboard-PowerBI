@@ -43,12 +43,13 @@ The dataset used for this project is a structured sales dataset containing:
   
 ### 📸 Dashboard Preview
 
-(Add your screenshot here)
+![Sales Dashboard](Sales Performance Dashboard.png)
 
 ### 🚀 How to Use
  - Open the .pbix file in Power BI Desktop
 - Use filters to explore data by region, category, or time
 - Interact with visuals to drill down into performance
   
-- 📌 Conclusion
+### 📌 Conclusion
+
 This dashboard demonstrates how business data can be transformed into meaningful insights through structured analysis and visualization. It highlights the importance of data-driven decision-making in identifying growth opportunities and improving performance.
