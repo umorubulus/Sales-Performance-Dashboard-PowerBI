@@ -1,9 +1,9 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Project Type](https://img.shields.io/badge/Type-Data%20Analysis-blue)
-# 📌 Project Title
 
-## Sales Performance Analysis Dashboard (Power BI)
+
+# Sales Performance Analysis Dashboard (Power BI)
 
 ### 📖 Overview
 
@@ -37,7 +37,7 @@ The objective is to transform structured sales data into actionable insights tha
 - Microsoft Excel (Data Preparation)
 - DAX (Data Analysis Expressions for KPI calculations)
 
-📁 Dataset
+### 📁 Dataset
 The dataset used for this project is a structured sales dataset containing:
 - Order details
 - Customer and regional information
