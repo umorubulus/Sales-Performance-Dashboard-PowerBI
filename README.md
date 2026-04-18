@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Project Type](https://img.shields.io/badge/Type-Data%20Analysis-blue)
 # 📌 Project Title
 
 ## Sales Performance Analysis Dashboard (Power BI)
