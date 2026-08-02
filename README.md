@@ -922,11 +922,6 @@ Rather than simply reporting historical sales figures, the analysis supports str
 
 The dashboard reflects the type of analytical reporting commonly used by commercial teams, sales leadership, and business executives to monitor performance and guide operational decisions.
 
-  
-### 📸 Dashboard Preview
-
-
-
 ### 🚀 How to Use
  - Open the .pbix file in Power BI Desktop
 - Use filters to explore data by region, category, or time
