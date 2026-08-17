@@ -44,8 +44,9 @@ The final Power BI dashboard provides management with a consolidated view of:
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](Sales Performance Dashboard new.png)
-
+<p align="center">
+  <img src="Sales Performance Dashboard new.png" alt="Web Analytics Dashboard Banner" width="100%">)
+<p/>
 ---
 
 ## 🎯 Business Problem
