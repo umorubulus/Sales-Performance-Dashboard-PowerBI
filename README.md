@@ -290,47 +290,6 @@ The Power BI model follows a simplified **star-schema approach**.
 
 ---
 
-## Data Model Diagram
-
-```mermaid
-flowchart TD
-
-    Date[Dim_Date]
-    Market[Dim_Market]
-    Product[Dim_Product]
-    Channel[Dim_Channel]
-    SalesRep[Dim_SalesRep]
-
-    Leads[Fact_Leads]
-    Customers[Fact_Customers]
-    Transactions[Fact_Transactions]
-    Targets[Fact_Targets]
-
-    Date --> Leads
-    Date --> Customers
-    Date --> Transactions
-    Date --> Targets
-
-    Market --> Leads
-    Market --> Customers
-    Market --> Transactions
-    Market --> Targets
-
-    Product --> Leads
-    Product --> Customers
-    Product --> Transactions
-
-    Channel --> Leads
-    Channel --> Customers
-    Channel --> Transactions
-
-    SalesRep --> Leads
-    SalesRep --> Customers
-    SalesRep --> Transactions
-```
-
----
-
 # 📈 Key Performance Indicators
 
 The dashboard tracks the major commercial KPIs across the complete sales funnel.
